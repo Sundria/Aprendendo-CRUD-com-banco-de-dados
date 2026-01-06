@@ -1,9 +1,0 @@
-{
-    "Codegeex.RepoIndex": true,
-    "Codegeex.SidebarUI.LanguagePreference": "English",
-    "editor.inlineSuggest.showToolbar": "always",
-    "testing.coverageToolbarEnabled": false,
-    "notebook.globalToolbarShowLabel": "always",
-    "debug.toolBarLocation": "floating",
-    "workbench.editor.openSideBySideDirection": "right"
-}
